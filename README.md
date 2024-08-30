@@ -1,1 +1,1 @@
-# AIMLlab
+# AIML Lab
